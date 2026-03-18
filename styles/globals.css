@@ -1,23 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --font-display: 'Cormorant Garamond', serif;
+  --font-display: 'Outfit', sans-serif;
   --font-body: 'DM Sans', sans-serif;
 }
 
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-
-html {
-  scroll-behavior: smooth;
-}
+* { box-sizing: border-box; padding: 0; margin: 0; }
+html { scroll-behavior: smooth; }
 
 body {
   font-family: var(--font-body);
@@ -26,7 +19,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Section number label */
 .section-label {
   font-family: var(--font-body);
   font-size: 11px;
@@ -35,53 +27,37 @@ body {
   color: #8A8680;
 }
 
-/* Display headings */
 h1, h2, h3 {
   font-family: var(--font-display);
-  font-weight: 400;
-  line-height: 1.1;
+  font-weight: 800;
+  line-height: 1.0;
+  letter-spacing: -0.03em;
 }
 
-/* Thin divider lines */
-.divider {
-  border-top: 1px solid #D8D4CC;
-}
+.divider { border-top: 1px solid #D8D4CC; }
 
-/* Animate on scroll */
 .reveal {
   opacity: 0;
   transform: translateY(20px);
   transition: opacity 0.6s ease, transform 0.6s ease;
 }
-.reveal.visible {
-  opacity: 1;
-  transform: translateY(0);
-}
+.reveal.visible { opacity: 1; transform: translateY(0); }
 
-/* Hover link underline */
-.link-hover {
-  position: relative;
-}
+.link-hover { position: relative; }
 .link-hover::after {
   content: '';
   position: absolute;
-  bottom: -2px;
-  left: 0;
-  width: 0;
-  height: 1px;
+  bottom: -2px; left: 0;
+  width: 0; height: 1px;
   background: #0A0A0A;
   transition: width 0.3s ease;
 }
-.link-hover:hover::after {
-  width: 100%;
-}
+.link-hover:hover::after { width: 100%; }
 
-/* Custom scrollbar */
 ::-webkit-scrollbar { width: 4px; }
 ::-webkit-scrollbar-track { background: #F5F2EB; }
 ::-webkit-scrollbar-thumb { background: #C8A96E; border-radius: 2px; }
 
-/* Grain overlay effect */
 body::before {
   content: '';
   position: fixed;

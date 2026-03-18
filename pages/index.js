@@ -25,7 +25,7 @@ export default function Home() {
             Available for projects
           </p>
 
-          <h1 className="font-display text-[clamp(3.5rem,10vw,9rem)] leading-[0.9] tracking-tight text-ink mb-10">
+          <h1 className="font-display font-black text-[clamp(3.5rem,10vw,9rem)] leading-[0.88] tracking-tight text-ink mb-10">
             {siteData.name}
           </h1>
 
@@ -77,7 +77,7 @@ export default function Home() {
             <p className="section-label mb-6">
               / About me &nbsp; <span className="text-accent">(01)</span>
             </p>
-            <h2 className="font-display text-4xl md:text-6xl text-ink leading-tight mb-8">
+            <h2 className="font-display font-extrabold text-4xl md:text-6xl text-ink leading-tight mb-8">
               Data-driven marketer who speaks both business and technology.
             </h2>
           </div>
@@ -90,7 +90,7 @@ export default function Home() {
             <div className="grid grid-cols-2 gap-6">
               {siteData.stats.map(stat => (
                 <div key={stat.label} className="border-l-2 border-accent pl-4">
-                  <div className="font-display text-4xl text-ink">{stat.value}</div>
+                  <div className="font-display font-extrabold text-4xl text-ink">{stat.value}</div>
                   <div className="text-xs text-muted mt-1 uppercase tracking-wider">{stat.label}</div>
                 </div>
               ))}
@@ -114,7 +114,7 @@ export default function Home() {
             <p className="section-label mb-4">
               / Selected Work &nbsp; <span className="text-accent">(02)</span>
             </p>
-            <h2 className="font-display text-4xl md:text-5xl text-ink">
+            <h2 className="font-display font-extrabold text-4xl md:text-5xl text-ink">
               Case studies that<br />moved the needle.
             </h2>
           </div>
@@ -142,7 +142,7 @@ export default function Home() {
           <p className="section-label mb-4">
             / Services &nbsp; <span className="text-accent">(03)</span>
           </p>
-          <h2 className="font-display text-4xl md:text-5xl text-ink">
+          <h2 className="font-display font-extrabold text-4xl md:text-5xl text-ink">
             What I bring<br />to the table.
           </h2>
         </div>
@@ -151,7 +151,7 @@ export default function Home() {
           {siteData.services.map((service, i) => (
             <div key={service.title} className="bg-paper p-8 md:p-10 reveal" style={{ transitionDelay: `${i * 0.1}s` }}>
               <div className="flex items-start justify-between mb-5">
-                <span className="font-display text-5xl text-ink/10">{i + 1}</span>
+                <span className="font-display font-extrabold text-5xl text-ink/10">{i + 1}</span>
               </div>
               <h3 className="font-display text-2xl text-ink mb-3">{service.title}</h3>
               <p className="text-sm text-muted leading-relaxed mb-5">{service.description}</p>
@@ -179,7 +179,7 @@ export default function Home() {
             <p className="section-label mb-4">
               / FAQ &nbsp; <span className="text-accent">(04)</span>
             </p>
-            <h2 className="font-display text-4xl md:text-5xl text-ink">
+            <h2 className="font-display font-extrabold text-4xl md:text-5xl text-ink">
               Frequently asked.
             </h2>
           </div>
@@ -197,7 +197,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto reveal">
           <p className="section-label text-paper/40 mb-6">Ready to work together?</p>
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-8">
-            <h2 className="font-display text-5xl md:text-8xl text-paper leading-tight">
+            <h2 className="font-display font-extrabold text-5xl md:text-8xl text-paper leading-tight">
               Let's build<br />
               <em className="text-accent not-italic">something great.</em>
             </h2>

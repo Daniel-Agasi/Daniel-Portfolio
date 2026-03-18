@@ -79,7 +79,7 @@ export default function About() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-10 pt-8 border-t border-border">
               {siteData.stats.map(stat => (
                 <div key={stat.label}>
-                  <div className="font-display text-4xl text-ink">{stat.value}</div>
+                  <div className="font-display font-extrabold text-4xl text-ink">{stat.value}</div>
                   <div className="text-xs text-muted mt-1.5 leading-snug">{stat.label}</div>
                 </div>
               ))}
@@ -100,7 +100,7 @@ export default function About() {
       <section className="py-20 md:py-28 px-6 md:px-10 max-w-6xl mx-auto">
         <div className="reveal mb-12">
           <p className="section-label mb-4">/ Skills &nbsp; <span className="text-accent">(02)</span></p>
-          <h2 className="font-display text-4xl md:text-5xl text-ink">Core competencies.</h2>
+          <h2 className="font-display font-extrabold text-4xl md:text-5xl text-ink">Core competencies.</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-border">
@@ -127,7 +127,7 @@ export default function About() {
       <section className="py-20 md:py-28 px-6 md:px-10 max-w-6xl mx-auto">
         <div className="reveal mb-12">
           <p className="section-label mb-4">/ Experience &nbsp; <span className="text-accent">(03)</span></p>
-          <h2 className="font-display text-4xl md:text-5xl text-ink">Where I've been.</h2>
+          <h2 className="font-display font-extrabold text-4xl md:text-5xl text-ink">Where I've been.</h2>
         </div>
 
         <div className="flex flex-col gap-0 divide-y divide-border max-w-3xl">
@@ -150,7 +150,7 @@ export default function About() {
       <section className="py-20 md:py-28 px-6 md:px-10 bg-warm">
         <div className="max-w-6xl mx-auto reveal text-center">
           <p className="section-label mb-6">Want to collaborate?</p>
-          <h2 className="font-display text-4xl md:text-6xl text-ink mb-8">Let's build together.</h2>
+          <h2 className="font-display font-extrabold text-4xl md:text-6xl text-ink mb-8">Let's build together.</h2>
           <Link href="/contact" className="inline-block px-8 py-4 bg-ink text-paper text-sm tracking-wide hover:bg-accent transition-colors duration-200">
             Get In Touch →
           </Link>
