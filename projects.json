@@ -1,70 +1,104 @@
 [
   {
-    "id": "tokopedia-performance",
-    "title": "Tokopedia Growth Campaign",
+    "id": "yen-social-google-ads",
+    "title": "Yen Social Bali — 11x ROAS",
     "category": "Performance Marketing",
-    "year": "2024",
-    "tags": ["Meta Ads", "Google Ads", "ROAS", "Retargeting"],
+    "year": "2025",
+    "tags": ["Google Ads", "ROAS", "F&B", "Reservations"],
     "thumbnail": "",
     "imagePosition": "center",
-    "summary": "Scaled paid acquisition from Rp 50M to Rp 500M monthly spend while maintaining 4.2x ROAS across Meta and Google.",
+    "summary": "Delivered 11x ROAS for Yen Social Bali via Google Ads, driving a surge in reservations on Chope and inbound calls from Google Maps.",
     "results": [
-      { "metric": "4.2x",  "value": "4.2x", "label": "Return on Ad Spend" },
-      { "metric": "+320%", "value": "320%", "label": "Revenue Growth YoY" },
-      { "metric": "Rp 500M", "value": "500M", "label": "Monthly Ad Spend Managed" }
+      { "metric": "11x",   "value": "11x",   "label": "ROAS Achieved" },
+      { "metric": "↑ Vol", "value": "High",  "label": "Reservation Volume on Chope" },
+      { "metric": "↑ GMB", "value": "High",  "label": "Inbound Calls from Google Maps" }
     ],
-    "description": "Led end-to-end performance marketing strategy for Tokopedia's flash sale division. Built full-funnel acquisition framework covering awareness to retargeting, implemented server-side conversion tracking, and created a creative testing system that cut CPA by 38%.",
-    "tools": ["Meta Business Suite", "Google Ads", "Google Analytics 4", "Looker Studio"]
+    "description": "Engineered and executed a full Google Ads strategy for Yen Social Bali (Adhya Group), one of Bali's premium dining destinations. Built targeted campaigns focusing on high-intent search and discovery, optimized landing experience, and implemented conversion tracking end-to-end. Result: 11x ROAS — the peak achievement in my career to date — alongside measurable uplift in reservations on Chope and direct calls from Google Maps.",
+    "tools": ["Google Ads", "Google Analytics 4", "Google Search Console", "Chope", "Google My Business"]
   },
   {
-    "id": "seo-organic-growth",
-    "title": "E-Commerce SEO Organic Scale",
+    "id": "ab-steak-meta-ads",
+    "title": "AB Steak — Full-Booked Seasonal Campaigns",
+    "category": "Performance Marketing",
+    "year": "2025",
+    "tags": ["Meta Ads", "A/B Testing", "F&B", "Audience Segmentation"],
+    "thumbnail": "",
+    "imagePosition": "center",
+    "summary": "Achieved 7.2x ROAS for AB Steak through rigorous Meta Ads A/B testing and audience segmentation, resulting in fully booked seasonal campaigns.",
+    "results": [
+      { "metric": "7.2x",       "value": "7.2x",     "label": "ROAS on Meta Ads" },
+      { "metric": "Full Book",  "value": "Sold Out",  "label": "Seasonal Campaigns" },
+      { "metric": "↓ CPA",      "value": "Optimized", "label": "Cost Per Acquisition" }
+    ],
+    "description": "Managed Meta Ads for AB Steak, a premium steakhouse under Adhya Group. Built structured A/B testing frameworks across creatives, audiences, and placements. Leveraged lookalike audiences and retargeting funnels to maximize conversion from awareness to reservation. The campaigns consistently achieved 7.2x ROAS and drove full-booked seasonal dinner events.",
+    "tools": ["Meta Ads Manager", "Meta Business Suite", "Google Analytics 4", "Looker Studio"]
+  },
+  {
+    "id": "medan-fnb-performance",
+    "title": "Medan F&B Portfolio — 7x Avg ROAS",
+    "category": "Performance Marketing",
+    "year": "2025",
+    "tags": ["Meta Ads", "Multi-Brand", "F&B", "ROAS"],
+    "thumbnail": "",
+    "imagePosition": "center",
+    "summary": "Managed Meta Ads for three Medan-based F&B brands — Anna Kitchen, Louise Bakery, Melaty Parahyangan — delivering a consistent 7x average ROAS.",
+    "results": [
+      { "metric": "7x",    "value": "7x",  "label": "Average ROAS Across Brands" },
+      { "metric": "3",     "value": "3",   "label": "Brands Managed Simultaneously" },
+      { "metric": "↑ Rev", "value": "High","label": "Revenue Growth MoM" }
+    ],
+    "description": "Oversaw paid social strategy for three distinct F&B brands in Medan simultaneously — Anna Kitchen, Louise Bakery, and Melaty Parahyangan. Each brand had unique audiences, creatives, and conversion goals. Built separate campaign structures tailored to each brand's positioning while maintaining operational efficiency across all three accounts. Delivered a consistent 7x average ROAS across the portfolio.",
+    "tools": ["Meta Ads Manager", "Meta Business Suite", "Google Analytics 4", "Canva", "Looker Studio"]
+  },
+  {
+    "id": "solusi-seo-b2b-tech",
+    "title": "Microsoft, Adobe & Autodesk — 140+ Page 1 Rankings",
     "category": "SEO",
-    "year": "2024",
-    "tags": ["Technical SEO", "Content Strategy", "Core Web Vitals", "Link Building"],
+    "year": "2022",
+    "tags": ["Technical SEO", "SEM", "B2B", "Enterprise"],
     "thumbnail": "",
     "imagePosition": "center",
-    "summary": "Drove 180% increase in organic traffic in 8 months through technical SEO overhaul and content cluster strategy.",
+    "summary": "Led SEO and SEM for B2B tech giants including Microsoft, Adobe, and Autodesk — achieving 140+ Page 1 keyword rankings and 90+ performance scores across 3 corporate sites.",
     "results": [
-      { "metric": "+180%", "value": "180%", "label": "Organic Traffic Growth" },
-      { "metric": "Top 3",  "value": "Top 3", "label": "Rankings for 50+ Keywords" },
-      { "metric": "0.8s",   "value": "0.8s", "label": "LCP Improvement" }
+      { "metric": "140+", "value": "140+", "label": "Page 1 Keyword Rankings" },
+      { "metric": "90+",  "value": "90+",  "label": "Performance Score on 3 Sites" },
+      { "metric": "3",    "value": "3",    "label": "Enterprise Sites Optimized" }
     ],
-    "description": "Executed a complete SEO transformation: technical audit fixing 200+ issues, pillar-cluster content architecture, Core Web Vitals optimization, and strategic link building campaign resulting in 50+ top-3 keyword rankings.",
-    "tools": ["Ahrefs", "Screaming Frog", "Google Search Console", "PageSpeed Insights"]
+    "description": "At PT Sarana Solusindo (SOLUSI), I led digital marketing for the Indonesian reseller operations of Microsoft, Adobe, and Autodesk. Executed comprehensive technical SEO audits, on-page optimization, and SEM campaigns targeting B2B decision-makers. Achieved 140+ Page 1 keyword rankings and brought all three corporate websites to 90+ performance scores — significantly improving organic visibility and paid search efficiency.",
+    "tools": ["SEMrush", "Google Search Console", "Google Ads", "PageSpeed Insights", "Screaming Frog", "Google Analytics"]
   },
   {
-    "id": "martech-stack",
-    "title": "MarTech Stack Implementation",
+    "id": "showonai-gtm-global",
+    "title": "ShowOnAI — Global GTM Strategy",
     "category": "Marketing Technology",
-    "year": "2023",
-    "tags": ["GA4", "GTM", "CDP", "Attribution"],
+    "year": "2025",
+    "tags": ["GTM Strategy", "AI Platform", "Global", "Remote"],
     "thumbnail": "",
     "imagePosition": "center",
-    "summary": "Built full martech infrastructure from scratch — GA4 migration, GTM setup, CDP implementation, and multi-touch attribution model.",
+    "summary": "Directed global marketing and audience development for a US-based AI platform across European and U.S. markets as Regional Marketing Lead.",
     "results": [
-      { "metric": "100%", "value": "100%", "label": "Data Accuracy Achieved" },
-      { "metric": "12",   "value": "12",   "label": "Platforms Integrated" },
-      { "metric": "-45%", "value": "45%",  "label": "Reporting Time Saved" }
+      { "metric": "2",       "value": "2",      "label": "Markets Activated (EU + US)" },
+      { "metric": "GTM",     "value": "Full",   "label": "End-to-End GTM Executed" },
+      { "metric": "Remote",  "value": "Global", "label": "Cross-Timezone Collaboration" }
     ],
-    "description": "Architected and deployed a complete marketing technology stack for a mid-size retail brand. Migrated from UA to GA4, implemented server-side GTM, connected CRM data to ad platforms, and built a custom Looker Studio dashboard for C-level reporting.",
-    "tools": ["Google Analytics 4", "Google Tag Manager", "Segment", "Looker Studio", "Meta CAPI"]
+    "description": "As Regional Lead for ShowOnAI, a US-based AI platform, I directed marketing strategy and audience development targeting European and U.S. markets. Collaborated closely with product teams to define positioning, craft messaging frameworks, and execute go-to-market strategies that positioned the brand as a leader in creative technology. Operated fully remotely across multiple time zones.",
+    "tools": ["HubSpot CRM", "Google Analytics 4", "Meta Ads", "LinkedIn Ads", "Notion", "Slack"]
   },
   {
-    "id": "landing-page-dev",
-    "title": "High-Converting Landing Page",
+    "id": "adhya-web-seo",
+    "title": "Adhya Group — Web Development & SEO",
     "category": "Web Development",
-    "year": "2023",
-    "tags": ["Next.js", "CRO", "A/B Testing", "Performance"],
+    "year": "2025",
+    "tags": ["Web Development", "SEO", "Webflow", "F&B"],
     "thumbnail": "",
     "imagePosition": "center",
-    "summary": "Built and optimized a series of landing pages that achieved 8.4% conversion rate — 3x the industry average.",
+    "summary": "Spearheaded web development and SEO for Akira Back, AB Steak, AB Bar, and Adhya Group — building fast, optimized sites that support performance campaigns.",
     "results": [
-      { "metric": "8.4%", "value": "8.4%", "label": "Conversion Rate" },
-      { "metric": "98",   "value": "98",   "label": "PageSpeed Score" },
-      { "metric": "3x",   "value": "3x",   "label": "Above Industry Average" }
+      { "metric": "4",      "value": "4",    "label": "Brand Sites Built/Optimized" },
+      { "metric": "↑ Rank", "value": "High", "label": "Organic Search Visibility" },
+      { "metric": "Fast",   "value": "90+",  "label": "PageSpeed Scores" }
     ],
-    "description": "Designed, developed, and CRO-optimized a suite of campaign landing pages. Implemented A/B testing framework, heatmap analysis, and iterative improvements based on behavioral data. Pages consistently outperformed benchmarks across all traffic sources.",
-    "tools": ["Next.js", "Vercel", "Hotjar", "Google Optimize", "Figma"]
+    "description": "Led end-to-end web development and SEO for multiple premium brands under Adhya Group — including Akira Back (AB Steak, AB Bar) and the Adhya Group corporate site. Built performant, SEO-optimized websites that serve as the foundation for all paid and organic campaigns. Implemented technical SEO best practices from day one: proper schema markup, Core Web Vitals optimization, and structured data for local search.",
+    "tools": ["Webflow", "WordPress", "Google Search Console", "PageSpeed Insights", "SEMrush", "Figma"]
   }
 ]

@@ -1,0 +1,108 @@
+{
+  "name": "Daniel Agasi",
+  "title": "Brand & Performance Marketing",
+  "tagline": "Result-driven marketing leader with 5+ years of experience in F&B, lifestyle, and tech sectors. Specializing in high-impact performance marketing with proven results up to 11x ROAS.",
+  "bio": "I'm Daniel Agasi — a marketing leader based in Jakarta who bridges creative strategy with technical execution. Over 5+ years I've driven measurable growth for F&B, lifestyle, and tech brands across Indonesia and internationally, managing cross-functional teams of 15+ and delivering consistent results that go beyond vanity metrics.",
+  "location": "Jakarta, Indonesia",
+  "email": "agasidaniel2@gmail.com",
+  "phone": "+62 859 7519 0397",
+  "linkedin": "https://www.linkedin.com/in/daniel-agasi-91624a246/",
+  "instagram": "",
+  "twitter": "",
+  "stats": [
+    { "value": "11x",  "label": "Peak ROAS Achieved" },
+    { "value": "5+",   "label": "Years Experience" },
+    { "value": "10+",  "label": "Brands Managed" },
+    { "value": "15+",  "label": "Team Size Led" }
+  ],
+  "skills": [
+    {
+      "category": "Performance Marketing",
+      "items": ["Meta Ads", "Google Ads", "TikTok Ads", "LinkedIn Ads", "ROAS Optimization", "A/B Testing", "CPAS", "Retargeting", "Audience Segmentation"]
+    },
+    {
+      "category": "SEO",
+      "items": ["Technical SEO", "On-Page SEO", "Off-Page SEO", "SEM", "Core Web Vitals", "Keyword Research", "Google Search Console", "SEMrush"]
+    },
+    {
+      "category": "Web Development",
+      "items": ["Webflow", "WordPress", "Framer", "CRO", "Landing Page Optimization", "PageSpeed Optimization"]
+    },
+    {
+      "category": "Marketing Technology",
+      "items": ["Google Analytics 4", "Google Tag Manager", "Meta Ads Manager", "HubSpot CRM", "Looker Studio", "GTM Strategy", "Market Research", "Media Planning"]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Digital Performance",
+      "company": "Adhya Group",
+      "period": "Nov 2025 – Present",
+      "description": "Overseeing digital strategy for premium F&B brands: AB Steak, Akira Back, Yen Signature, and Urban Roots. Peak achievement: 11x ROAS for Yen Social Bali via Google Ads."
+    },
+    {
+      "role": "Marketing Consultant (Regional Lead)",
+      "company": "ShowOnAI — United States (Remote)",
+      "period": "Jan 2025 – Oct 2025",
+      "description": "Directed global marketing and audience development for an AI platform across European and U.S. markets. Collaborated with product teams on GTM strategy."
+    },
+    {
+      "role": "Founder — Creative Digital Agency",
+      "company": "Marvketing",
+      "period": "May 2024 – Nov 2025",
+      "description": "Led agency growth and creative direction, delivering story-driven marketing with measurable impact. Managed and scaled digital performance for key accounts including Adhya Group's F&B portfolio."
+    },
+    {
+      "role": "Digital Marketing Manager",
+      "company": "Xander Creative Agency",
+      "period": "Jan 2023 – Apr 2024",
+      "description": "Led a cross-functional team of 15 across Live Shopping and Performance Marketing divisions. Managed end-to-end digital strategies for 10+ brands, consistently exceeding ROI/ROAS targets."
+    },
+    {
+      "role": "Senior Digital Marketing",
+      "company": "PT Sarana Solusindo (SOLUSI)",
+      "period": "Jan 2021 – Dec 2022",
+      "description": "Led digital marketing for B2B tech giants including Microsoft, Adobe, and Autodesk. Achieved 140+ keyword rankings on page one and 90+ performance scores across 3 corporate sites."
+    }
+  ],
+  "services": [
+    {
+      "title": "Performance Marketing",
+      "description": "Full-funnel paid media strategy and execution across Meta, Google, TikTok, and LinkedIn. Proven track record up to 11x ROAS for F&B, lifestyle, and tech brands.",
+      "items": ["Meta & Google Ads", "Campaign Strategy", "Creative & A/B Testing", "ROAS Optimization", "Retargeting Funnels", "CPAS"]
+    },
+    {
+      "title": "SEO",
+      "description": "Technical and strategic SEO that drives sustainable organic growth. Delivered 140+ Page 1 keyword rankings for enterprise tech brands including Microsoft and Adobe.",
+      "items": ["Technical SEO Audit", "On/Off-Page SEO", "SEM & Paid Search", "Core Web Vitals", "Content Strategy", "Link Building"]
+    },
+    {
+      "title": "Web Development",
+      "description": "Conversion-optimized websites built for performance. Experienced with Webflow, WordPress, and Framer — delivering fast, beautiful sites that rank and convert.",
+      "items": ["Webflow & WordPress", "Framer", "Landing Page Dev", "CRO & A/B Testing", "PageSpeed Optimization"]
+    },
+    {
+      "title": "Brand & GTM Strategy",
+      "description": "From market research to full go-to-market execution. I help brands define their positioning, build their playbook, and launch with measurable impact.",
+      "items": ["GTM Strategy", "Brand Positioning", "Market Research", "Competitor Analysis", "Media Planning", "Stakeholder Management"]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What industries have you worked in?",
+      "answer": "I have deep hands-on experience in F&B (premium restaurants, cafes, bakeries), tech (Microsoft, Adobe, Autodesk), lifestyle brands, and AI/SaaS — both in Indonesia and international markets."
+    },
+    {
+      "question": "What's your strongest result to date?",
+      "answer": "11x ROAS for Yen Social Bali via Google Ads, and consistent 7x average ROAS for multiple Medan-based F&B brands. I also achieved 140+ Page 1 keyword rankings for enterprise tech clients."
+    },
+    {
+      "question": "Do you work remotely or internationally?",
+      "answer": "Yes — I've worked as a Regional Marketing Lead for a US-based AI platform (ShowOnAI) and am comfortable with async remote collaboration across time zones."
+    },
+    {
+      "question": "Do you take freelance or consulting projects?",
+      "answer": "Yes, I take on select freelance and consulting engagements. Send me a brief at agasidaniel2@gmail.com and we'll see how I can help."
+    }
+  ]
+}
