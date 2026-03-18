@@ -1,0 +1,96 @@
+{
+  "name": "Your Name",
+  "title": "Performance Marketing & SEO Specialist",
+  "tagline": "I help brands grow through data-driven marketing, technical SEO, and smart technology.",
+  "bio": "Specializing in performance marketing, SEO, web development, and marketing technology. I bridge the gap between creative strategy and technical execution — turning data into growth.",
+  "location": "Jakarta, Indonesia",
+  "email": "hello@yourdomain.com",
+  "phone": "+62 xxx xxxx xxxx",
+  "linkedin": "https://linkedin.com/in/yourname",
+  "instagram": "https://instagram.com/yourname",
+  "twitter": "https://twitter.com/yourname",
+  "stats": [
+    { "value": "4+", "label": "Years Experience" },
+    { "value": "30+", "label": "Projects Completed" },
+    { "value": "15+", "label": "Brands Worked With" },
+    { "value": "4x", "label": "Average ROAS Delivered" }
+  ],
+  "skills": [
+    {
+      "category": "Performance Marketing",
+      "items": ["Meta Ads", "Google Ads", "TikTok Ads", "Programmatic", "ROAS Optimization", "Retargeting", "Creative Testing"]
+    },
+    {
+      "category": "SEO",
+      "items": ["Technical SEO", "On-Page SEO", "Content Strategy", "Link Building", "Core Web Vitals", "Schema Markup"]
+    },
+    {
+      "category": "Web Development",
+      "items": ["Next.js", "React", "HTML/CSS", "Landing Pages", "CRO", "A/B Testing", "PageSpeed Optimization"]
+    },
+    {
+      "category": "Marketing Technology",
+      "items": ["Google Analytics 4", "Google Tag Manager", "Meta CAPI", "Looker Studio", "Segment", "HubSpot", "Attribution Modeling"]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Performance Marketing Manager",
+      "company": "Company Name",
+      "period": "2022 – Present",
+      "description": "Led paid media strategy across Meta, Google, and TikTok. Managed Rp 500M+ monthly budget."
+    },
+    {
+      "role": "SEO & Growth Specialist",
+      "company": "Agency / Company Name",
+      "period": "2020 – 2022",
+      "description": "Drove organic growth for 10+ clients across e-commerce and SaaS verticals."
+    },
+    {
+      "role": "Digital Marketing Specialist",
+      "company": "Company Name",
+      "period": "2019 – 2020",
+      "description": "Full-stack digital marketing covering paid ads, SEO, email, and analytics."
+    }
+  ],
+  "services": [
+    {
+      "title": "Performance Marketing",
+      "description": "Full-funnel paid media strategy and execution across Meta, Google, TikTok, and programmatic platforms. From campaign setup to ROAS optimization.",
+      "items": ["Meta & Google Ads", "Campaign Strategy", "Creative Testing", "ROAS Optimization", "Retargeting Funnels"]
+    },
+    {
+      "title": "SEO",
+      "description": "Technical and strategic SEO that drives sustainable organic growth. From audit to execution — I fix what holds your site back and build what pushes it forward.",
+      "items": ["Technical SEO Audit", "Content Strategy", "On-Page Optimization", "Link Building", "Core Web Vitals"]
+    },
+    {
+      "title": "Web Development",
+      "description": "Fast, conversion-optimized websites and landing pages built for performance. Every page is built to load fast, rank well, and convert visitors.",
+      "items": ["Landing Page Development", "Next.js / React", "CRO & A/B Testing", "PageSpeed Optimization", "Mobile-First Design"]
+    },
+    {
+      "title": "Marketing Technology",
+      "description": "Build and integrate your martech stack so your data is clean, your tracking is accurate, and your reporting tells the full story.",
+      "items": ["GA4 & GTM Setup", "Server-Side Tracking", "CDP Implementation", "Attribution Modeling", "Dashboard & Reporting"]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What industries do you specialize in?",
+      "answer": "I have deep experience in e-commerce, fintech, and consumer brands — but my methodology applies to any business that runs paid media or relies on organic growth."
+    },
+    {
+      "question": "Do you work with international clients?",
+      "answer": "Yes. I work remotely with clients across Southeast Asia and beyond. Most collaboration happens async via Slack or Notion, with regular video calls."
+    },
+    {
+      "question": "How do you measure success?",
+      "answer": "Every engagement starts with agreeing on KPIs. For paid media, that's ROAS and CAC. For SEO, it's organic traffic and keyword rankings. For MarTech, it's data accuracy and reporting efficiency."
+    },
+    {
+      "question": "Do you take on freelance projects?",
+      "answer": "Yes, I take on select freelance and consulting projects. The best way to start is to send me a brief through the contact page and we'll take it from there."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "tokopedia-performance",
+    "title": "Tokopedia Growth Campaign",
+    "category": "Performance Marketing",
+    "year": "2024",
+    "tags": ["Meta Ads", "Google Ads", "ROAS", "Retargeting"],
+    "thumbnail": "/images/project-1.jpg",
+    "summary": "Scaled paid acquisition from Rp 50M to Rp 500M monthly spend while maintaining 4.2x ROAS across Meta and Google.",
+    "results": [
+      { "metric": "ROAS", "value": "4.2x", "label": "Return on Ad Spend" },
+      { "metric": "+320%", "value": "320%", "label": "Revenue Growth YoY" },
+      { "metric": "Rp 500M", "value": "500M", "label": "Monthly Ad Spend Managed" }
+    ],
+    "description": "Led end-to-end performance marketing strategy for Tokopedia's flash sale division. Built full-funnel acquisition framework covering awareness to retargeting, implemented server-side conversion tracking, and created a creative testing system that cut CPA by 38%.",
+    "tools": ["Meta Business Suite", "Google Ads", "Google Analytics 4", "Looker Studio"]
+  },
+  {
+    "id": "seo-organic-growth",
+    "title": "E-Commerce SEO Organic Scale",
+    "category": "SEO",
+    "year": "2024",
+    "tags": ["Technical SEO", "Content Strategy", "Core Web Vitals", "Link Building"],
+    "thumbnail": "/images/project-2.jpg",
+    "summary": "Drove 180% increase in organic traffic in 8 months through technical SEO overhaul and content cluster strategy.",
+    "results": [
+      { "metric": "+180%", "value": "180%", "label": "Organic Traffic Growth" },
+      { "metric": "Top 3", "value": "Top 3", "label": "Rankings for 50+ Keywords" },
+      { "metric": "0.8s", "value": "0.8s", "label": "LCP Improvement" }
+    ],
+    "description": "Executed a complete SEO transformation: technical audit fixing 200+ issues, pillar-cluster content architecture, Core Web Vitals optimization, and strategic link building campaign resulting in 50+ top-3 keyword rankings.",
+    "tools": ["Ahrefs", "Screaming Frog", "Google Search Console", "PageSpeed Insights"]
+  },
+  {
+    "id": "martech-stack",
+    "title": "MarTech Stack Implementation",
+    "category": "Marketing Technology",
+    "year": "2023",
+    "tags": ["GA4", "GTM", "CDP", "Attribution"],
+    "thumbnail": "/images/project-3.jpg",
+    "summary": "Built full martech infrastructure from scratch — GA4 migration, GTM setup, CDP implementation, and multi-touch attribution model.",
+    "results": [
+      { "metric": "100%", "value": "100%", "label": "Data Accuracy Achieved" },
+      { "metric": "12", "value": "12", "label": "Platforms Integrated" },
+      { "metric": "-45%", "value": "45%", "label": "Reporting Time Saved" }
+    ],
+    "description": "Architected and deployed a complete marketing technology stack for a mid-size retail brand. Migrated from UA to GA4, implemented server-side GTM, connected CRM data to ad platforms, and built a custom Looker Studio dashboard for C-level reporting.",
+    "tools": ["Google Analytics 4", "Google Tag Manager", "Segment", "Looker Studio", "Meta CAPI"]
+  },
+  {
+    "id": "landing-page-dev",
+    "title": "High-Converting Landing Page",
+    "category": "Web Development",
+    "year": "2023",
+    "tags": ["Next.js", "CRO", "A/B Testing", "Performance"],
+    "thumbnail": "/images/project-4.jpg",
+    "summary": "Built and optimized a series of landing pages that achieved 8.4% conversion rate — 3x the industry average.",
+    "results": [
+      { "metric": "8.4%", "value": "8.4%", "label": "Conversion Rate" },
+      { "metric": "98", "value": "98", "label": "PageSpeed Score" },
+      { "metric": "3x", "value": "3x", "label": "Above Industry Average" }
+    ],
+    "description": "Designed, developed, and CRO-optimized a suite of campaign landing pages. Implemented A/B testing framework, heatmap analysis, and iterative improvements based on behavioral data. Pages consistently outperformed benchmarks across all traffic sources.",
+    "tools": ["Next.js", "Vercel", "Hotjar", "Google Optimize", "Figma"]
+  }
+]
